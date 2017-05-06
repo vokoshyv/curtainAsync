@@ -1,0 +1,24 @@
+{
+  "name": "curtainasync",
+  "version": "1.0.0",
+  "description": "For working with some async stuffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vokoshyv/curtainAsync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vokoshyv/curtainAsync/issues"
+  },
+  "homepage": "https://github.com/vokoshyv/curtainAsync#readme",
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
